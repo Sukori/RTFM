@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "sourceMap": true
+  },
+  "files": [
+    "src/greet.ts"
+  ]
+}

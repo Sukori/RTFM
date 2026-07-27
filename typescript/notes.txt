@@ -1,0 +1,3 @@
+In order to create types out of objects, as you do with C structs, you shall implement an `interface` with a given name.
+You may combine `interfaces` and `classes`.
+You may still use a `type` to implement a type that has a limited set of values, such as `boolean`, which can only be `true` or `false`.
